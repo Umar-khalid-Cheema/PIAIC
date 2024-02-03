@@ -1,0 +1,19 @@
+{
+  "name": "cl-based-task-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "tsc && node dist/main.js"
+  },
+  "keywords": [],
+  "author": "Engr. Jalal Saleem",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.12"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
